@@ -1,0 +1,1 @@
+rsync -av -e 'ssh' ./pics ./svg index.html style.css nginx.conf user@46.101.132.192:~/website/ 
