@@ -16,7 +16,7 @@ body {
 
     gap: 70px;
 
-    padding: 50px 0px 200px 0px;
+    padding: 100px 0px 200px 0px;
 }
 
 * {
@@ -33,7 +33,7 @@ h5 {
 }
 
 .logo img {
-    width: 200px;
+    width: 400px;
 }
 
 /* HERO ================================================================================ */
@@ -195,7 +195,7 @@ section a:hover {
     }
 
     .logo img {
-        width: 400px;
+        width: 500px;
     }
 
     .hero {
